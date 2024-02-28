@@ -1,2 +1,2 @@
 # SimpleCalculator
-simple inovative calsi
+Build calculator using html, css, javascript
